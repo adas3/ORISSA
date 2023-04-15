@@ -2,4 +2,4 @@ bassball is a sports.
 
 Java is a programming language
 
-School is far away.
+School is far away from home.
