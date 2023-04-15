@@ -1,5 +1,5 @@
 bassball is a sports.
 
-music is a skill.
+Java is a programming language
 
 School is far away.
